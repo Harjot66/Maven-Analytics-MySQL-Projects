@@ -1,3 +1,3 @@
 # Maven Analytics MySQL Projects
 
-This is a repository of my MySQL projects of running various queries for data analysis including techniques such as joins, case when, where statements, SQL dates, group by, order by, aggregate functions, etc.
+This is a repository of my MySQL projects where I executed complex queries on real world world databases.
